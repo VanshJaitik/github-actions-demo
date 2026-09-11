@@ -46,4 +46,4 @@ jobs:
       - name: Deploy Application
         run: |
           echo "Deployment started..."
-          echo "Application deployed successfully"
+          echo "Application deployed successfully."
